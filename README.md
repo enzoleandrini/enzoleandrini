@@ -97,6 +97,14 @@ Me chamo Enzo Dorigon Leandrini, tenho 20 anos e sou natural de São Paulo. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Dart"
+    title="Dart" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
 
 <br/>
 <br/>
